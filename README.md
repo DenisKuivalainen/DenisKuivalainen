@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello!
 
-<!--
-**DenisKuivalainen/DenisKuivalainen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Denis Kuivalainen - young WEB developer from Finland.
 
-Here are some ideas to get you started:
+##### My current projects
+* [FEEDM3 - cooking book](https://github.com/DenisKuivalainen/softdevproj)
+* [My WEB CV](https://github.com/DenisKuivalainen/softdevproj)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### My current studies
+* Node js
+
+##### My contacts
+d.kuivalainen@yandex.ru
+[LinkedIn](https://www.linkedin.com/in/denis-kuivalainen-36119a1a3/)
+
+##### I need help...
+I need help with HTML/CSS layout. I'm not master with it.
