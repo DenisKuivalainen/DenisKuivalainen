@@ -4,7 +4,7 @@ I am Denis Kuivalainen - young WEB developer from Finland.
 
 #### My current projects
 * [FEEDM3 - cooking book](https://github.com/DenisKuivalainen/softdevproj)
-* [My WEB CV](https://github.com/DenisKuivalainen/softdevproj)
+* [My WEB CV](https://github.com/DenisKuivalainen/godlike)
 
 #### My current studies
 * Node js
