@@ -3,10 +3,11 @@
 I am Denis Kuivalainen - young WEB developer from Finland.
 
 #### My current projects
-* [FEEDM3 - cooking book](https://github.com/DenisKuivalainen/softdevproj)
+* [Schedule mobile app](https://github.com/DenisKuivalainen/mobile-schedule)
 * [My WEB CV](https://github.com/DenisKuivalainen/godlike)
 
 #### My current studies
+* Vue js
 * Node js
 
 #### My contacts
