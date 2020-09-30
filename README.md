@@ -3,11 +3,11 @@
 I am Denis Kuivalainen - young WEB developer from Finland.
 
 #### My current projects
-* [Schedule mobile app](https://github.com/DenisKuivalainen/mobile-schedule)
-* [My WEB CV](https://github.com/DenisKuivalainen/godlike)
+* [Blog](https://github.com/DenisKuivalainen/readm3-add)
+* [My project server](https://github.com/DenisKuivalainen/godlike)
 
 #### My current studies
-* Vue js
+* SSR
 * Node js
 
 #### My contacts
