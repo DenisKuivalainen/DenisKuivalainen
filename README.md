@@ -17,4 +17,4 @@ I am Denis Kuivalainen - young WEB developer from Finland.
 * [LinkedIn](https://www.linkedin.com/in/denis-kuivalainen-36119a1a3/)
 
 ##### 
->I need help with HTML/CSS layout. I'm not master with it.
+>Looking for designer help for my game >_<
