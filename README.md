@@ -15,6 +15,7 @@ I am Denis Kuivalainen - young WEB developer from Finland.
 * +358 46 950 1022
 * d.kuivalainen@yandex.ru
 * [LinkedIn](https://www.linkedin.com/in/denis-kuivalainen-36119a1a3/)
+
 Looking for developer position
 
 ##### 
