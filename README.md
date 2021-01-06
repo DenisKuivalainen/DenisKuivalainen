@@ -3,13 +3,12 @@
 I am Denis Kuivalainen - young WEB developer from Finland.
 
 #### My current projects
-* [Blog](https://github.com/DenisKuivalainen/readm3)
-* Unity 2D game (further information is confidential at this moment :D)
+* Studying new things
+* Unity 2D game (DEMO version, soon be announced)
 
 #### My current studies
-* SSR
-* Next js
-* Node js
+* Ramda
+* Jest
 
 #### My contacts
 * +358 46 950 1022
@@ -19,4 +18,4 @@ I am Denis Kuivalainen - young WEB developer from Finland.
 Looking for developer position
 
 ##### 
->Looking for designer help for my game >_<
+>Looking for designer (level design / sprites) help for my game >_<
