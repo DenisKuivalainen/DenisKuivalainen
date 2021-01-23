@@ -3,16 +3,15 @@
 I am Denis Kuivalainen - young WEB developer from Finland.
 
 #### My current projects
-* Personal library for Ramda (add methods Pow, Rand, etc.)
 * Studying new things
 * Unity 2D game (DEMO version, soon be announced)
 
 #### My current studies
-* Ramda
+* TypeScript
 * Jest
 
 #### My plans
-* TypeScript
+* WebPack
 * Electron
 
 #### My contacts
