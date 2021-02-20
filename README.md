@@ -3,12 +3,12 @@
 I am Denis Kuivalainen - young WEB developer from Finland.
 
 #### My current projects
+* THESIS
 * Studying new things
 * Unity 2D game (DEMO version, soon be announced)
 
 #### My current studies
 * TypeScript
-* Jest
 
 #### My plans
 * WebPack
