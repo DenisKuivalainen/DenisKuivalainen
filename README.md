@@ -1,14 +1,12 @@
 ## Hello!
 
-I am Denis Kuivalainen - young WEB developer from Finland.
+I am Denis Kuivalainen - fullstack developer from Finland.
 
 #### My current projects
-* THESIS
-* Studying new things
-* Unity 2D game (DEMO version, soon be announced)
+* #6gf83ywwk2l99&$73Y#n38pifivjsof738E(r39^#$7Yiudhl project
 
 #### My current studies
-* TypeScript
+* AWS
 
 #### My plans
 * WebPack
@@ -16,10 +14,6 @@ I am Denis Kuivalainen - young WEB developer from Finland.
 
 #### My contacts
 * +358 46 950 1022
-* d.kuivalainen@yandex.ru
+* denis.kuivalainen@reactron.dev
 * [LinkedIn](https://www.linkedin.com/in/denis-kuivalainen-36119a1a3/)
 
-Looking for developer position
-
-##### 
->Looking for designer (level design / sprites) help for my game >_<
