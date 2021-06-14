@@ -3,7 +3,7 @@
 I am Denis Kuivalainen - fullstack developer from Finland.
 
 #### My current projects
-* #6gf83ywwk2l99&$73Y#n38pifivjsof738E(r39^#$7Yiudhl project
+* Timetable for NSPU University
 
 #### My current studies
 * AWS
