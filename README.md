@@ -1,6 +1,6 @@
 ## Hello!
 
-I am Denis Kuivalainen - fullstack developer from Finland.
+I am Denis Kuivalainen - fullstack developer at Reactron Technologies ldt.
 
 #### My current projects
 * Timetable for NSPU University
