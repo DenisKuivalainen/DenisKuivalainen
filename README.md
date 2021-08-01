@@ -3,7 +3,7 @@
 I am Denis Kuivalainen - fullstack developer at Reactron Technologies ldt.
 
 #### My current projects
-* Timetable for NSPU University
+* Game about 10yo girl taking revenge on mafia with help of demon
 
 #### My current studies
 * AWS
