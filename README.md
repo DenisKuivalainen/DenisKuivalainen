@@ -2,7 +2,7 @@
 
 I am Denis Kuivalainen - fullstack developer at Reactron Technologies ldt.
 
-#### My current projects
+#### My current personal projects
 * Game about 10yo girl taking revenge on mafia with help of demon
 
 #### My current studies
