@@ -3,8 +3,7 @@
 I am Denis Kuivalainen - fullstack developer at Reactron Technologies ldt.
 
 #### My current personal projects
-* Custom ApiDoc UI
-* Testing some stuff with Unity
+* Some AWS stuff
 
 #### My current studies
 * AWS Certified Solutions Architect Associate
