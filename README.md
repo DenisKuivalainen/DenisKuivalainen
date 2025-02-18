@@ -1,6 +1,6 @@
 ## Hello!
 
-Hello, I'm Denis Kuivalainen, a pasionate software developer :D
+Hello, I'm Denis Kuivalainen, a passionate software developer :D
 
 #### My contacts
 * +358 46 950 1022
