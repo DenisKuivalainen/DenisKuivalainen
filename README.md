@@ -28,5 +28,5 @@ I like problems where the interesting part is the plumbing: streaming data throu
 ### Contact
 
 - [LinkedIn](https://www.linkedin.com/in/denis-kuivalainen/)
-- denis.kuivalainen@gmail.com
+- kuivalainendenis@gmail.com
 - +358 46 950 1022
